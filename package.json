@@ -1,8 +1,8 @@
 {
   "name": "express-typescript-boilerplate",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A boilerplate for Express projects built with TypeScript",
+  "main": "src/index.ts",
   "scripts": {
     "start": "node dist",
     "dev": "ts-node-dev --respawn --transpile-only -r tsconfig-paths/register src/index.ts",
